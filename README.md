@@ -6,8 +6,8 @@
 Build a Spring Boot Application with REST API to generate PDF using Java Template Engine.
 
 # Requirement
-i) REST API to accept data and generate a PDF based on the received data.
-ii) Ability to download the above-generated PDF
+* REST API to accept data and generate a PDF based on the received data.
+* Ability to download the above-generated PDF
 
 Use Java Template Engines like Thymeleaf or iText to generate the PDF and store it on
 the local storage which can be retrieved later. The input should have a proper schema.
